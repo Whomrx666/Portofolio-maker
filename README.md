@@ -1,13 +1,13 @@
 # PORTFOLIO MAKER
-![Portfolio-maker preview](Portfolio-maker.jpg)
+![Portfolio-maker preview](Portofolio-maker.jpg)
 
 <p align="center">
   <strong>Advanced Interactive Portfolio Generator CLI for Termux (No Root)</strong><br>
-  <em>"Real Operations: HTML, CSS, SVG, Python. Fully Responsive. — Mr.X"</em>
+  <em>"Real Operations: HTML, CSS, SVG, Python. Fully Responsive. â€” Mr.X"</em>
 </p>
 
 ## Introduction
-**PORTFOLIO MAKER** is a powerful **interactive portfolio generator** designed specifically for mobile and terminal environments. With **10 professional themes**, **10 dynamic backgrounds**, and **6 social media integrations**, it lets you create a stunning personal portfolio website in minutes—all without root access. Built with a sleek **cyberpunk neon terminal interface**, it runs smoothly on **Termux (Android)**, Linux, and any Python-supported platform.
+**PORTFOLIO MAKER** is a powerful **interactive portfolio generator** designed specifically for mobile and terminal environments. With **10 professional themes**, **10 dynamic backgrounds**, and **6 social media integrations**, it lets you create a stunning personal portfolio website in minutesâ€”all without root access. Built with a sleek **cyberpunk neon terminal interface**, it runs smoothly on **Termux (Android)**, Linux, and any Python-supported platform.
 
 ---
 
@@ -27,26 +27,26 @@ $ python3 portofolio.py
 ```
 
 ## Features
-- **10 Unique Themes** – Minimal Light, Dark Pro, Ocean Blue, Forest Green, Rose Gold, Sunset Orange, Midnight Purple, Cyberpunk Neon, Tech Noir, Mono Chrome.
-- **10 Background Styles** – Gradients, animated rainbow, cyberpunk grid, dot patterns, and more.
-- **Interactive StepbyStep Wizard** – Easily input name, title, skills, projects, testimonials, and social links.
-- **Termux Optimized** – Fully functional on Android with no root required.
-- **Cyberpunk UI** – Neon-themed terminal with animated boot screen, menu, and clean output formatting.
-- **Responsive HTML Export** – Generates a modern, mobilefriendly portfolio ready for GitHub Pages, Netlify, or Vercel.
-- **Custom Header Background** – Upload your own image to the header.
-- **Colorful Skill Cards** – Pick custom emojis from a builtin menu for each skill.
-- **SVG Social Icons** – Professional icons for Instagram, Facebook, X, TikTok, Telegram, WhatsApp, Email, LinkedIn, GitHub, and Website.
-- **Typewriter Animation** – Your name types out smoothly on the generated page.
-- **Scroll Animations** – Sections fade and slide into view as you scroll.
-- **Local & Public Server** – Preview instantly on localhost or share a temporary public URL via SSH tunnel (localhost.run, no token needed).
-- **Custom Save Location & Filename** – Choose exactly where to save the HTML file.
-· Help System – Type help or ? at any prompt for a complete guide.
+- **10 Unique Themes** â€“ Minimal Light, Dark Pro, Ocean Blue, Forest Green, Rose Gold, Sunset Orange, Midnight Purple, Cyberpunk Neon, Tech Noir, Mono Chrome.
+- **10 Background Styles** â€“ Gradients, animated rainbow, cyberpunk grid, dot patterns, and more.
+- **Interactive StepbyStep Wizard** â€“ Easily input name, title, skills, projects, testimonials, and social links.
+- **Termux Optimized** â€“ Fully functional on Android with no root required.
+- **Cyberpunk UI** â€“ Neon-themed terminal with animated boot screen, menu, and clean output formatting.
+- **Responsive HTML Export** â€“ Generates a modern, mobilefriendly portfolio ready for GitHub Pages, Netlify, or Vercel.
+- **Custom Header Background** â€“ Upload your own image to the header.
+- **Colorful Skill Cards** â€“ Pick custom emojis from a builtin menu for each skill.
+- **SVG Social Icons** â€“ Professional icons for Instagram, Facebook, X, TikTok, Telegram, WhatsApp, Email, LinkedIn, GitHub, and Website.
+- **Typewriter Animation** â€“ Your name types out smoothly on the generated page.
+- **Scroll Animations** â€“ Sections fade and slide into view as you scroll.
+- **Local & Public Server** â€“ Preview instantly on localhost or share a temporary public URL via SSH tunnel (localhost.run, no token needed).
+- **Custom Save Location & Filename** â€“ Choose exactly where to save the HTML file.
+Â· Help System â€“ Type help or ? at any prompt for a complete guide.
 
 ## Instructions
 - **First**: Install the tool using the commands above.
 - **Second**: Run python3 portfolio.py to launch the cyberpunk interface.
 - **Third**: Select [1] Start Builder, [2] Help, [3] About, or [4] Exit.
-- **Fourth**: Follow the 6step wizard – enter your info, skills (with emojis), projects, testimonials, contacts, theme, and background.
+- **Fourth**: Follow the 6step wizard â€“ enter your info, skills (with emojis), projects, testimonials, contacts, theme, and background.
 - **Fifth**: Your portfolio HTML will be generated and saved to your chosen folder.
 - **Last**: Optionally start a web server to preview locally or get a public link to share.
 
