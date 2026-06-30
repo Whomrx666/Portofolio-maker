@@ -32,7 +32,7 @@ $ python3 portofolio.py
 - **Interactive Step by Step Wizard** – Easily input name, title, skills, projects, testimonials, and social links.
 - **Termux Optimized** – Fully functional on Android with no root required.
 - **Cyberpunk UI** – Neon-themed terminal with animated boot screen, menu, and clean output formatting.
-- **Responsive HTML Export** – Generates a modern, mobile friendly portfolio ready for GitHub Pages, Netlify, or Vercel.
+- **Responsive HTML Export** – Generates a modern, Mobile friendly portfolio ready for GitHub Pages, Netlify, or Vercel.
 - **Custom Header Background** – Upload your own image to the header.
 - **Colorful Skill Cards** – Pick custom emojis from a built in menu for each skill.
 - **SVG Social Icons** – Professional icons for Instagram, Facebook, X, TikTok, Telegram, WhatsApp, Email, LinkedIn, GitHub, and Website.
