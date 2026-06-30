@@ -29,7 +29,7 @@ $ python3 portofolio.py
 ## Features
 - **10 Unique Themes** – Minimal Light, Dark Pro, Ocean Blue, Forest Green, Rose Gold, Sunset Orange, Midnight Purple, Cyberpunk Neon, Tech Noir, Mono Chrome.
 - **10 Background Styles** – Gradients, animated rainbow, cyberpunk grid, dot patterns, and more.
-- **Interactive StepbyStep Wizard** – Easily input name, title, skills, projects, testimonials, and social links.
+- **Interactive Step by Step Wizard** – Easily input name, title, skills, projects, testimonials, and social links.
 - **Termux Optimized** – Fully functional on Android with no root required.
 - **Cyberpunk UI** – Neon-themed terminal with animated boot screen, menu, and clean output formatting.
 - **Responsive HTML Export** – Generates a modern, mobilefriendly portfolio ready for GitHub Pages, Netlify, or Vercel.
