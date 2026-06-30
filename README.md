@@ -46,7 +46,7 @@ $ python3 portofolio.py
 - **First**: Install the tool using the commands above.
 - **Second**: Run python3 portfolio.py to launch the cyberpunk interface.
 - **Third**: Select [1] Start Builder, [2] Help, [3] About, or [4] Exit.
-- **Fourth**: Follow the 6step wizard – enter your info, skills (with emojis), projects, testimonials, contacts, theme, and background.
+- **Fourth**: Follow the 6 step wizard – enter your info, skills (with emojis), projects, testimonials, contacts, theme, and background.
 - **Fifth**: Your portfolio HTML will be generated and saved to your chosen folder.
 - **Last**: Optionally start a web server to preview locally or get a public link to share.
 
